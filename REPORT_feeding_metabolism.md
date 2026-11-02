@@ -168,3 +168,47 @@ significant HFD/fasting counter-regulation.**
   Prespecified-model and female-only versions of every test are in the results table.
 - **Different exposures:** DRG (45% HFD, 9–33 wk, males) and nodose (60% HFD, 4 wk, both sexes)
   differ in diet, duration and sex, which reduces the chance of seeing shared effects.
+
+---
+
+# Are the HFD/fasting counter-regulated candidates expressed in the geniculate ganglion?
+
+Fig. 7; `results/geniculate/`. Expression only: no diet or fasting data exist for the geniculate
+ganglion in GEO (searched 2 Nov 2026).
+
+**Datasets**
+
+- **GSE223724:** bulk geniculate ganglia, 4 wild-type adults; the *Egr4*⁻/⁻ mice were not used.
+- **GSE102443:** 96 single geniculate neurons (Fluidigm C1, FPKM), split by *Phox2b*:
+  - 61 *Phox2b*⁺ oral/taste neurons
+  - 35 *Phox2b*⁻ somatosensory neurons
+- **GSE135801:** 376 *Phox2b*⁺ geniculate neurons with ≥ 100,000 reads; this cutoff was fixed
+  before looking at the target genes.
+- **References:** nodose (chow fed) and DRG (standard diet), converted to TPM with the same gene
+  lengths.
+
+| Gene | Bulk geniculate TPM (4 WT) | Nodose / DRG TPM | Neurons expressing: C1 *Phox2b*⁺ / *Phox2b*⁻ / GSE135801 | Verdict |
+|---|---|---|---|---|
+| *Acacb* | 1.1 (0.5–1.7) | 4.8 / 3.4 | 3% / 0% / 5% | Low; essentially not neuronal (likely glial/vascular) |
+| *Insr* | 1.7 (1.0–2.4) | 17.5 / 9.8 | 72% / 71% / 31% | Low in bulk, but widely detected at low level in neurons |
+| *Cnr1* | 6.5 (5.0–7.4) | 94.6 / 19.9 | **97%** / 46% / 80% | Expressed, mainly in oral/taste (*Phox2b*⁺) neurons |
+| *Pomc* | 2.6 in the one pituitary-free sample* | 2.6 / 1.7 | 43% / 31% / 4% (≈ 2 FPKM) | Trace only |
+| *Cartpt* | 17.0 (11.6–21.5) | 368 / 63.5 | 51% / **100%** / 23% | Expressed; in all somatosensory (*Phox2b*⁻) neurons and about half of the taste neurons |
+
+\*Bulk geniculate *Pomc* ranged from 2.6 to 1,381 TPM and tracked the pituitary hormones *Gh*,
+*Prl* and *Cga* sample by sample (pituitary carry-over from the skull-base dissection). Only one
+wild-type sample was free of pituitary signal (`geniculate_pituitary_check.csv`).
+
+**Summary**
+
+- **Expressed:** *Cnr1* and *Cartpt* are clearly expressed by geniculate neurons, with the same
+  split as in the vagal ganglion: CB1 in taste/visceral-type (*Phox2b*⁺) neurons, and CART strongest
+  in somatosensory neurons.
+- **Low:** *Insr* is present at a low level in many neurons.
+- **Effectively absent:** *Acacb* and *Pomc*.
+- **Lower bulk levels:** both genes are lower in the geniculate than in the nodose (about 15-fold for
+  *Cnr1* and 20-fold for *Cartpt*). The geniculate is a small, glia-rich ganglion; *Snap25* is
+  similar across ganglia, so part of the difference is biological, but cross-study TPM comparisons
+  are approximate.
+- **If you go further:** the geniculate is a reasonable place to test *Cnr1* and *Cartpt* under HFD
+  or fasting. *Pomc*, *Acacb* and probably *Insr* are poor geniculate readouts.

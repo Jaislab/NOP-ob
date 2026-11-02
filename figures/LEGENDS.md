@@ -83,3 +83,13 @@ than the lean between-run difference), and nodose fasting. Row label: consensus 
 conjunction P (– if P = 1). ○, nominal P < 0.05. **c**, Adipocyte markers in DRG and nodose HFD
 contrasts; the DRG 12-wk *Pparg* increase is accompanied by *Cidea*/*Cidec*/*Fabp4*, suggesting
 more perineural adipose tissue in the dissected samples.
+
+**Fig. 7 | Expression of the HFD/fasting counter-regulated candidates in the mouse geniculate ganglion.**
+**a**, Bulk TPM per mouse: geniculate ganglia (GSE223724, wild-type, n = 4), nodose (GSE281091, chow
+fed, n = 6) and DRG (GSE225224, standard diet, n = 11), using common gene lengths; bar, median. Open
+circles, geniculate samples with pituitary carry-over (*Gh*/*Prl* high), shown for *Pomc* only and
+excluded from its median. Shaded, < 0.5 TPM; zero values drawn at the axis floor. **b**, Percentage of
+single geniculate neurons with expression: Fluidigm C1 (GSE102443; FPKM > 1), split into *Phox2b*⁺
+oral/taste (n = 61) and *Phox2b*⁻ somatosensory (n = 35) neurons; and *Phox2b*⁺ neurons from
+GSE135801 (≥ 1 read; cells with ≥ 100,000 reads, n = 376). Differences between datasets reflect
+chemistry and depth.

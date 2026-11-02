@@ -21,3 +21,7 @@ $PY scripts/make_feeding_figures.py
 mkdir -p data/raw/msigdb && curl -sS -o data/raw/msigdb/m5.go.bp.v2024.1.Mm.symbols.gmt https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2024.1.Mm/m5.go.bp.v2024.1.Mm.symbols.gmt
 $PY scripts/hfd_consensus.py
 $PY scripts/make_consensus_figure.py
+$PY scripts/download_supplementary.py GSE223724 GSE102443 GSE135801
+mkdir -p data/raw/GSE135801/x && tar -xf data/raw/GSE135801/GSE135801_RAW.tar -C data/raw/GSE135801/x
+$PY scripts/geniculate_expression.py
+$PY scripts/make_geniculate_figure.py

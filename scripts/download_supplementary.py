@@ -13,6 +13,9 @@ FILES = {
     'GSE320302': ['GSE320302_rsem_count.txt.gz'],
     'GSE233163': ['GSE233163_cells_metadata.csv.gz', 'GSE233163_cells_counts.csv.gz'],
     'GSE309905': ['filelist.txt', 'GSE309905_RAW.tar'],
+    'GSE223724': ['GSE223724_ILMN_1150_Pierchala_mRNAseq8_Sept2021_processed_data.xlsx'],
+    'GSE102443': ['GSE102443_GEO-ID_Dvoryanchikov_2017_Datatable_FPKM.txt.gz', 'GSE102443_GEO-ID_Dvoryanchikov_2017_All_Transcripts_Read_Counts.txt.gz'],
+    'GSE135801': ['GSE135801_RAW.tar'],
 }
 
 def main(accs):

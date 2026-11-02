@@ -64,5 +64,29 @@
     "bytes": 44892160,
     "sha256": "da792d3905271da5ad842fab6d57a535dcd748a70dcea3138db435cc862b0be2",
     "retrieved_utc": "2026-11-02T09:48:07.214056+00:00"
+  },
+  "GSE223724/GSE223724_ILMN_1150_Pierchala_mRNAseq8_Sept2021_processed_data.xlsx": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223724/suppl/GSE223724_ILMN_1150_Pierchala_mRNAseq8_Sept2021_processed_data.xlsx",
+    "bytes": 5596573,
+    "sha256": "78775818e6dcdca64642041f23e4bdad8e345b0e44c2369a519597a41284c1cb",
+    "retrieved_utc": "2026-11-02T11:28:14.690701+00:00"
+  },
+  "GSE102443/GSE102443_GEO-ID_Dvoryanchikov_2017_Datatable_FPKM.txt.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102443/suppl/GSE102443_GEO-ID_Dvoryanchikov_2017_Datatable_FPKM.txt.gz",
+    "bytes": 3985944,
+    "sha256": "a9d0fbe064dec4ba0840d07f6fbfc3c2113e6c939271791281cd2a20edd08dfe",
+    "retrieved_utc": "2026-11-02T11:28:17.008595+00:00"
+  },
+  "GSE102443/GSE102443_GEO-ID_Dvoryanchikov_2017_All_Transcripts_Read_Counts.txt.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102443/suppl/GSE102443_GEO-ID_Dvoryanchikov_2017_All_Transcripts_Read_Counts.txt.gz",
+    "bytes": 2156563,
+    "sha256": "066ba4360e3aa3b6c86c1c4d974acb75b49141fe53e866d55b5010fc9a4dd7fd",
+    "retrieved_utc": "2026-11-02T11:28:19.251945+00:00"
+  },
+  "GSE135801/GSE135801_RAW.tar": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE135nnn/GSE135801/suppl/GSE135801_RAW.tar",
+    "bytes": 43663360,
+    "sha256": "2123c7841437bc5192ea365b8f45933718804130992c5867fa8c1446c078d70a",
+    "retrieved_utc": "2026-11-02T11:28:22.987801+00:00"
   }
 }

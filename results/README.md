@@ -12,6 +12,7 @@
 | `model_notes.json` | Annotation checks, duplicated IDs, Cook's distances, moderation priors |
 | `feeding/` | Modules A–C: fasting/refeeding/HFD nodose models, panel statistics, sensitivities, concordance permutation, length-bias index |
 | `consensus/` | Cross-ganglion HFD consensus of feeding-regulatory genes with fasting counter-regulation (conjunction tests), gene universe, transcriptome-wide context |
+| `geniculate/` | Geniculate ganglion expression of candidate genes (bulk TPM with nodose/DRG reference, single-neuron detection, pituitary carry-over check) |
 | `environment_pip_freeze.txt` | Exact package versions used |
 
 See `../REPORT.md` for interpretation.
