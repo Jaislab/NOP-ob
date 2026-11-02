@@ -119,8 +119,8 @@ significant HFD/fasting counter-regulation.**
   GSE281091).
 - **Conjunction test** ("changed in DRG *and* nodose"): best P = 0.024, every q = 1.0.
   Transcriptome-wide, 0 of 13,947 genes reach q < 0.1.
-- **Detectable effects:** the design could detect shared changes of roughly 0.25–0.42 log2
-  (≈ 20–35%) in half of the feeding genes (80% power, one-sided α = 0.05 in each ganglion). Shared
+- **Detectable effects:** the design could detect shared changes of ≤ 0.42 log2 (≈ 34%)
+  in half of the feeding genes and ≤ 0.25 log2 in a quarter (80% power, one-sided α = 0.05 in each ganglion). Shared
   regulation larger than that is unlikely for most well-expressed feeding genes; smaller or
   cell-type-restricted changes cannot be excluded.
 
