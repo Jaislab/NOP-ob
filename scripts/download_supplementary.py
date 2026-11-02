@@ -12,7 +12,7 @@ FILES = {
                   'GSE281091_Partek_Bulk_RNA-Seq_Exp_3B_Normalization_Normalized_counts_diet_types.txt.gz'],
     'GSE320302': ['GSE320302_rsem_count.txt.gz'],
     'GSE233163': ['GSE233163_cells_metadata.csv.gz', 'GSE233163_cells_counts.csv.gz'],
-    'GSE309905': ['filelist.txt'],
+    'GSE309905': ['filelist.txt', 'GSE309905_RAW.tar'],
 }
 
 def main(accs):

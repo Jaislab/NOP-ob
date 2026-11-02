@@ -23,3 +23,11 @@ identifiers are included in this repository.
 The next executor should check actual official GEO access from its own authorized
 environment and proceed with acquisition when it works. The original blocker
 does not need to be reproduced to perform the biological study.
+
+## Update — later on 2 November 2026 (execution environment)
+
+Official GEO HTTPS access worked from the execution environment. Parallel requests occasionally
+returned HTTP 403; sequential retries succeeded for every file. All six series' SOFT records and
+supplementary files used in the analysis were retrieved and hashed
+(`metadata/download_manifest.json`). The Dryad lead (doi:10.5061/dryad.9s4mw6mm5) returned 404
+from both doi.org and the Dryad API.

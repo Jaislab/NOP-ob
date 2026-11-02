@@ -1,0 +1,31 @@
+contrast_id,gene,check,log2fc,se,p,loo_lfc_min,loo_lfc_max,loo_p_max,loo_most_influential,n
+DRG_HFD_12wk,Pnoc,"single-gene NB GLM, fixed MAP dispersion (all samples)",-3.1577715846566194,0.9896548163373974,0.0014188888680362766,,,,,
+DRG_HFD_12wk,Pnoc,Mann-Whitney U on normalized counts,,,0.09041206470009694,,,,,
+DRG_HFD_12wk,Pnoc,leave-one-out: range of log2FC,,,,-4.664930996032406,-1.978688813814771,0.0568964028391508,GSM7042116,
+DRG_HFD_12wk,Oprl1,"single-gene NB GLM, fixed MAP dispersion (all samples)",0.2754923519064661,0.13549644456174673,0.042031590042280444,,,,,
+DRG_HFD_12wk,Oprl1,Mann-Whitney U on normalized counts,,,0.09307359307359307,,,,,
+DRG_HFD_12wk,Oprl1,leave-one-out: range of log2FC,,,,0.2036815319483412,0.33669285977024777,0.15101420521907863,GSM7042113,
+DRG_HFD_36wk,Pnoc,"single-gene NB GLM, fixed MAP dispersion (all samples)",-0.6231292737330273,0.9925183542904565,0.5301176377650771,,,,,
+DRG_HFD_36wk,Pnoc,Mann-Whitney U on normalized counts,,,0.12554112554112554,,,,,
+DRG_HFD_36wk,Pnoc,leave-one-out: range of log2FC,,,,-1.115092428315133,-0.4303835325696938,0.6778474575664156,GSM7042153,
+DRG_HFD_36wk,Oprl1,"single-gene NB GLM, fixed MAP dispersion (all samples)",-0.1362090380856411,0.1407590476862722,0.33320661299809196,,,,,
+DRG_HFD_36wk,Oprl1,Mann-Whitney U on normalized counts,,,0.24675324675324672,,,,,
+DRG_HFD_36wk,Oprl1,leave-one-out: range of log2FC,,,,-0.18781829067483957,-0.08687190381583375,0.5542642811846203,GSM7042121,
+Nodose_earlyHFD_P21,Pnoc,"single-gene NB GLM, fixed MAP dispersion (all samples)",-0.38846680109183906,0.42225386741226356,0.35758112152314225,,,,,
+Nodose_earlyHFD_P21,Pnoc,Mann-Whitney U on normalized counts,,,0.08298368298368297,,,,,
+Nodose_earlyHFD_P21,Pnoc,leave-one-out: range of log2FC,,,,-0.8830895345140941,-0.24716279461740914,0.5689032262496896,GSM9540243,
+Nodose_earlyHFD_P21,Oprl1,"single-gene NB GLM, fixed MAP dispersion (all samples)",0.07517489551762532,0.16301463603227553,0.644687927837522,,,,,
+Nodose_earlyHFD_P21,Oprl1,Mann-Whitney U on normalized counts,,,0.5053613053613053,,,,,
+Nodose_earlyHFD_P21,Oprl1,leave-one-out: range of log2FC,,,,0.02239488874396086,0.1311812366132186,0.8947490961352156,GSM9540249,
+Nodose_earlyHFD_P35,Pnoc,"single-gene NB GLM, fixed MAP dispersion (all samples)",0.4802986000021682,0.5170166841514527,0.3528990094667336,,,,,
+Nodose_earlyHFD_P35,Pnoc,Mann-Whitney U on normalized counts,,,0.280963480963481,,,,,
+Nodose_earlyHFD_P35,Pnoc,leave-one-out: range of log2FC,,,,0.26745418441662905,0.653541210355867,0.6278306825679071,GSM9540258,
+Nodose_earlyHFD_P35,Oprl1,"single-gene NB GLM, fixed MAP dispersion (all samples)",-0.20324736398749857,0.1678747130612355,0.22600709344395076,,,,,
+Nodose_earlyHFD_P35,Oprl1,Mann-Whitney U on normalized counts,,,0.6943278943278944,,,,,
+Nodose_earlyHFD_P35,Oprl1,leave-one-out: range of log2FC,,,,-0.27373877976580197,0.012643314377367192,0.9423285402334733,GSM9540255,
+Nodose_HFD_4wk,Pnoc,"OLS log2(norm+1), female only",-0.4668837186866073,0.32897032030602574,0.2288390509196386,,,,,6.0
+Nodose_HFD_4wk,Pnoc,"OLS log2(norm+1), male only",1.105335172884602,0.5681781870306806,0.1236079292282022,,,,,6.0
+Nodose_HFD_4wk,Pnoc,"OLS log2(norm+1), excluding technical-PC1 samples GSM8610734,GSM8610735,GSM8610736",-0.4668837186866084,0.510284760725209,0.3955007570722198,,,,,9.0
+Nodose_HFD_4wk,Oprl1,"OLS log2(norm+1), female only",-0.03765934723991382,0.03207808879472653,0.30552587218641536,,,,,6.0
+Nodose_HFD_4wk,Oprl1,"OLS log2(norm+1), male only",-0.11616832607074556,0.06498831855944402,0.14837748614332394,,,,,6.0
+Nodose_HFD_4wk,Oprl1,"OLS log2(norm+1), excluding technical-PC1 samples GSM8610734,GSM8610735,GSM8610736",-0.037659347239916756,0.028419099044757663,0.23335002350331577,,,,,9.0

@@ -1,0 +1,102 @@
+{
+  "GSE225224": {
+    "ids": "gene symbols (NCBI mm10 annotation)",
+    "duplicated_ids": [],
+    "targets_missing": [],
+    "cooks_max_targets": {
+      "Pnoc": 0.46766806582277903,
+      "Oprl1": 0.09463874025237433,
+      "Pcsk1": 0.08738930393445783,
+      "Pcsk2": 0.05790575820669056,
+      "Cpe": 0.0977643313295567,
+      "Penk": 0.10583437826108191,
+      "Pdyn": 0.30800186777041444,
+      "Pomc": 0.04072320577870986,
+      "Oprm1": 0.1887282731079591,
+      "Oprd1": 0.0871945161705371,
+      "Oprk1": 0.3549332567179359
+    },
+    "n_genes_tested": 19789
+  },
+  "GSE198895": {
+    "htseq_special_rows_removed": {},
+    "ensembl_mapped_fraction": 0.6662001119731265,
+    "ids": "Ensembl IDs mapped to symbols via the GSE281091 Ensembl annotation; unmapped IDs kept as Ensembl",
+    "duplicated_ids": [
+      "Bfar",
+      "Pakap",
+      "Ndor1",
+      "Septin2",
+      "Gcat"
+    ],
+    "targets_missing": [],
+    "cooks_max_targets": {
+      "Pcsk1": 1.5521894092428787,
+      "Pcsk2": 0.9989372261069254,
+      "Cpe": 0.5089502616759078,
+      "Penk": 0.22131747882047562,
+      "Pomc": 0.27257048364599923,
+      "Oprm1": 0.8040863435243197,
+      "Oprd1": 0.7367691758961319,
+      "Oprk1": 0.2957186783312011
+    },
+    "n_genes_tested": 14148
+  },
+  "GSE320302": {
+    "nonint_fraction": 0.025490887899558765,
+    "ids": "gene symbols (UCSC mm10)",
+    "duplicated_ids": [],
+    "targets_missing": [],
+    "cooks_max_targets": {
+      "Pnoc": 0.4415260177389556,
+      "Oprl1": 0.7924200688794037,
+      "Pcsk1": 0.11939455864868388,
+      "Pcsk2": 0.24868545781501475,
+      "Cpe": 0.02214444492699585,
+      "Penk": 0.14188283176796643,
+      "Pdyn": 0.5791763780571908,
+      "Pomc": 0.24537127755096594,
+      "Oprm1": 0.19063141332914438,
+      "Oprd1": 0.22174234593284703,
+      "Oprk1": 0.09965311840404739
+    },
+    "n_genes_tested": 19003
+  },
+  "GSE281091": {
+    "ids": "Ensembl mm39 gene_name",
+    "duplicated_ids": [
+      "Bfar",
+      "Gm16364",
+      "Pakap",
+      "Gm16701",
+      "4933427D14Rik",
+      "Tmem147os",
+      "St6galnac2",
+      "Gm35558",
+      "Ncf2-rs",
+      "Aldoa",
+      "Ndor1",
+      "Gm6740",
+      "Septin2",
+      "Nnt",
+      "Gcat",
+      "---",
+      "Ptp4a1",
+      "Snhg4",
+      "Fam220a",
+      "Nlrp5-ps",
+      "2610005L07Rik",
+      "Alms1-ps2",
+      "Gm4988",
+      "Slfn10-ps",
+      "Zfp783",
+      "H2-K2",
+      "Ppp4r1l-ps"
+    ],
+    "targets_missing": [],
+    "prior_df": 3.167324023070182,
+    "residual_df": 9,
+    "pseudocount": 1.0,
+    "n_genes_tested": 21805
+  }
+}

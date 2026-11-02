@@ -1,0 +1,68 @@
+{
+  "GSE225224/GSE225224_RAW.tar": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE225nnn/GSE225224/suppl/GSE225224_RAW.tar",
+    "bytes": 6062080,
+    "sha256": "f179ba357ab171d9e41687cc78f0ae142c7b59d5a7e8670d02383c2090a1a9df",
+    "retrieved_utc": "2026-11-02T09:25:04.453968+00:00"
+  },
+  "GSE225224/filelist.txt": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE225nnn/GSE225224/suppl/filelist.txt",
+    "bytes": 3174,
+    "sha256": "377a2e8b28a6dd322604b1847aafd906eafc0353bdd2125ec6847994177ad081",
+    "retrieved_utc": "2026-11-02T09:25:06.547563+00:00"
+  },
+  "GSE198895/GSE198895_RAW.tar": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198895/suppl/GSE198895_RAW.tar",
+    "bytes": 409600,
+    "sha256": "e834af0f31282cc8d3a1c5293a0f530b442fec714c3da6fbd55ecbe95fdb69d0",
+    "retrieved_utc": "2026-11-02T09:25:08.794853+00:00"
+  },
+  "GSE198895/filelist.txt": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198895/suppl/filelist.txt",
+    "bytes": 373,
+    "sha256": "12c79291c539713581645e1b8916e09bd179d489a3fd26e39c33aae266c26a99",
+    "retrieved_utc": "2026-11-02T09:25:10.864920+00:00"
+  },
+  "GSE281091/GSE281091_Partek_Bulk_RNA-Seq_Exp_3A_Normalization_Normalized_counts_metabolic_states.txt.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE281nnn/GSE281091/suppl/GSE281091_Partek_Bulk_RNA-Seq_Exp_3A_Normalization_Normalized_counts_metabolic_states.txt.gz",
+    "bytes": 2099667,
+    "sha256": "8b0774dc275e5e77a7a048d4446fdc6cb550a77ba04a96fd82b97c7f7d835abf",
+    "retrieved_utc": "2026-11-02T09:25:13.149084+00:00"
+  },
+  "GSE281091/GSE281091_Partek_Bulk_RNA-Seq_Exp_3B_Normalization_Normalized_counts_diet_types.txt.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE281nnn/GSE281091/suppl/GSE281091_Partek_Bulk_RNA-Seq_Exp_3B_Normalization_Normalized_counts_diet_types.txt.gz",
+    "bytes": 1618997,
+    "sha256": "cea89651148d2c7898b41b74835099ecfe8a7d61d3f4e0553eb8c518055db324",
+    "retrieved_utc": "2026-11-02T09:25:15.373725+00:00"
+  },
+  "GSE320302/GSE320302_rsem_count.txt.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE320nnn/GSE320302/suppl/GSE320302_rsem_count.txt.gz",
+    "bytes": 996365,
+    "sha256": "8b4633f2e3904b160a0f40342cd2d37a67ab1757668d3e4454a77ca55f20ac30",
+    "retrieved_utc": "2026-11-02T09:25:17.565918+00:00"
+  },
+  "GSE233163/GSE233163_cells_metadata.csv.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE233nnn/GSE233163/suppl/GSE233163_cells_metadata.csv.gz",
+    "bytes": 2807598,
+    "sha256": "de9d5ef2355058999ae36a4fade8158bd78d7c7a0fe17370d81a0f8910c498f2",
+    "retrieved_utc": "2026-11-02T09:25:19.824090+00:00"
+  },
+  "GSE233163/GSE233163_cells_counts.csv.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE233nnn/GSE233163/suppl/GSE233163_cells_counts.csv.gz",
+    "bytes": 119142670,
+    "sha256": "41f6f6ff94c328726208812c3045c918d9093e571bf646e72e2993c6011bd1b2",
+    "retrieved_utc": "2026-11-02T09:25:26.580324+00:00"
+  },
+  "GSE309905/filelist.txt": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE309nnn/GSE309905/suppl/filelist.txt",
+    "bytes": 877,
+    "sha256": "81e46de24c20b61ca0333d3d644423e8eaed1c35dd02693564d1eacbccfd5052",
+    "retrieved_utc": "2026-11-02T09:48:03.305295+00:00"
+  },
+  "GSE309905/GSE309905_RAW.tar": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE309nnn/GSE309905/suppl/GSE309905_RAW.tar",
+    "bytes": 44892160,
+    "sha256": "da792d3905271da5ad842fab6d57a535dcd748a70dcea3138db435cc862b0be2",
+    "retrieved_utc": "2026-11-02T09:48:07.214056+00:00"
+  }
+}

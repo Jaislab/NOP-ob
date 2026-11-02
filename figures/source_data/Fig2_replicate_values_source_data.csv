@@ -1,0 +1,133 @@
+series,gsm,gene,normalized,raw_count,size_factor,group,diet,title,sex,contrast_id
+GSE225224,GSM7042113,Pnoc,148.85816966131668,108.0,0.7255228264980181,12wk_Control,Control,12wk_WT_DRG_1,,DRG_HFD_12wk
+GSE225224,GSM7042114,Pnoc,0.0,0.0,0.937663897221705,12wk_Control,Control,12wk_WT_DRG_2,,DRG_HFD_12wk
+GSE225224,GSM7042115,Pnoc,4.57208202747733,4.0,0.8748749423043534,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_1,,DRG_HFD_12wk
+GSE225224,GSM7042116,Pnoc,21.18420535021001,9.0,0.4248448243025918,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_2,,DRG_HFD_12wk
+GSE225224,GSM7042129,Pnoc,22.69242086185544,22.0,0.9694866904650372,12wk_Control,Control,12wk_WT_DRG_3,,DRG_HFD_12wk
+GSE225224,GSM7042130,Pnoc,30.53005716835824,27.0,0.884374367565324,12wk_Control,Control,12wk_WT_DRG_4,,DRG_HFD_12wk
+GSE225224,GSM7042131,Pnoc,0.0,0.0,0.8788636877051074,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_3,,DRG_HFD_12wk
+GSE225224,GSM7042132,Pnoc,0.0,0.0,0.5572094359028057,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_4,,DRG_HFD_12wk
+GSE225224,GSM7042145,Pnoc,2.9327290149957923,4.0,1.3639173546369197,12wk_Control,Control,12wk_WT_DRG_5,,DRG_HFD_12wk
+GSE225224,GSM7042146,Pnoc,30.16739265917582,35.0,1.160193073210597,12wk_Control,Control,12wk_WT_DRG_6,,DRG_HFD_12wk
+GSE225224,GSM7042147,Pnoc,2.113998415866752,2.0,0.9460745027001298,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_5,,DRG_HFD_12wk
+GSE225224,GSM7042148,Pnoc,0.8118190499081205,1.0,1.2318015943493532,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_6,,DRG_HFD_12wk
+GSE225224,GSM7042121,Pnoc,24.12849895221831,23.0,0.9532296246669516,36wk_Control,Control,36wk_WT_DRG_1,,DRG_HFD_36wk
+GSE225224,GSM7042122,Pnoc,28.26561945811569,31.0,1.0967387446058323,36wk_Control,Control,36wk_WT_DRG_2,,DRG_HFD_36wk
+GSE225224,GSM7042123,Pnoc,21.066800903132435,23.0,1.0917651951882317,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_1,,DRG_HFD_36wk
+GSE225224,GSM7042124,Pnoc,6.610281042043557,9.0,1.361515485159715,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_2,,DRG_HFD_36wk
+GSE225224,GSM7042137,Pnoc,21.37392873722932,22.0,1.0292913516493662,36wk_Control,Control,36wk_WT_DRG_3,,DRG_HFD_36wk
+GSE225224,GSM7042138,Pnoc,17.091343927722964,23.0,1.3457104425060993,36wk_Control,Control,36wk_WT_DRG_4,,DRG_HFD_36wk
+GSE225224,GSM7042139,Pnoc,8.918511858716387,11.0,1.2333896253385923,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_3,,DRG_HFD_36wk
+GSE225224,GSM7042140,Pnoc,4.428081635983114,7.0,1.5808199973363577,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_4,,DRG_HFD_36wk
+GSE225224,GSM7042152,Pnoc,24.730031536036236,35.0,1.415283274062895,36wk_Control,Control,36wk_WT_DRG_5,,DRG_HFD_36wk
+GSE225224,GSM7042153,Pnoc,36.70423312637512,41.0,1.1170373689278366,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_5,,DRG_HFD_36wk
+GSE225224,GSM7042154,Pnoc,12.537843145783812,12.0,0.9571024186911544,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_6,,DRG_HFD_36wk
+GSE281091,GSM8610734,Pnoc,29.4821,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male1, biol rep 1",male,Nodose_HFD_4wk
+GSE281091,GSM8610735,Pnoc,22.3897,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male2, biol rep 2",male,Nodose_HFD_4wk
+GSE281091,GSM8610736,Pnoc,17.8201,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male3, biol rep 3",male,Nodose_HFD_4wk
+GSE281091,GSM8610737,Pnoc,10.7714,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female1, biol rep 4",female,Nodose_HFD_4wk
+GSE281091,GSM8610738,Pnoc,11.3385,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female2, biol rep 5",female,Nodose_HFD_4wk
+GSE281091,GSM8610739,Pnoc,9.89729,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female3, biol rep 6",female,Nodose_HFD_4wk
+GSE281091,GSM8610740,Pnoc,4.90509,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male1, biol rep 1",male,Nodose_HFD_4wk
+GSE281091,GSM8610741,Pnoc,20.1387,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male2, biol rep 2",male,Nodose_HFD_4wk
+GSE281091,GSM8610742,Pnoc,9.79368,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male3, biol rep 3",male,Nodose_HFD_4wk
+GSE281091,GSM8610743,Pnoc,9.82289,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female1, biol rep 4",female,Nodose_HFD_4wk
+GSE281091,GSM8610744,Pnoc,22.5957,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female2, biol rep 5",female,Nodose_HFD_4wk
+GSE281091,GSM8610745,Pnoc,15.3633,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female3, biol rep 6",female,Nodose_HFD_4wk
+GSE320302,GSM9540238,Pnoc,5.817690032471597,8.0,1.3751162326194384,P21_Control,Control,"P21 male nodose ganglia, control, rep1",,Nodose_earlyHFD_P21
+GSE320302,GSM9540239,Pnoc,6.28295702478837,8.0,1.2732858061001089,P21_Control,Control,"P21 male nodose ganglia, control, rep2",,Nodose_earlyHFD_P21
+GSE320302,GSM9540240,Pnoc,1.9705861565989735,2.0,1.0149264437398624,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep1",,Nodose_earlyHFD_P21
+GSE320302,GSM9540241,Pnoc,1.6240157509354003,1.0,0.615757574656539,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep2",,Nodose_earlyHFD_P21
+GSE320302,GSM9540242,Pnoc,4.413989800142646,5.0,1.1327620194859571,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep3",,Nodose_earlyHFD_P21
+GSE320302,GSM9540243,Pnoc,20.848288617296227,21.0,1.0072769226044729,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep4",,Nodose_earlyHFD_P21
+GSE320302,GSM9540244,Pnoc,10.683082546678152,13.0,1.2168772396167884,P21_Control,Control,"P21 male nodose ganglia, control, rep3",,Nodose_earlyHFD_P21
+GSE320302,GSM9540245,Pnoc,11.470431451761929,13.0,1.133348824294061,P21_Control,Control,"P21 male nodose ganglia, control, rep4",,Nodose_earlyHFD_P21
+GSE320302,GSM9540246,Pnoc,2.163668708888004,1.0,0.4621779646265439,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep5",,Nodose_earlyHFD_P21
+GSE320302,GSM9540247,Pnoc,5.669916703139484,13.0,2.2928026425506007,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep6",,Nodose_earlyHFD_P21
+GSE320302,GSM9540248,Pnoc,6.629202174404229,7.0,1.0559340047023222,P21_Control,Control,"P21 male nodose ganglia, control, rep5",,Nodose_earlyHFD_P21
+GSE320302,GSM9540249,Pnoc,9.065924087721337,9.0,0.9927283653510156,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep7",,Nodose_earlyHFD_P21
+GSE320302,GSM9540250,Pnoc,10.611836559824011,8.0,0.7538751614671186,P21_Control,Control,"P21 male nodose ganglia, control, rep6",,Nodose_earlyHFD_P21
+GSE320302,GSM9540251,Pnoc,13.106668941462631,11.0,0.8392674026580288,P21_Control,Control,"P21 male nodose ganglia, control, rep7",,Nodose_earlyHFD_P21
+GSE320302,GSM9540252,Pnoc,8.239494896312841,10.0,1.2136666295497047,P21_Control,Control,"P21 male nodose ganglia, control, rep8",,Nodose_earlyHFD_P21
+GSE320302,GSM9540253,Pnoc,7.154692549724729,8.0,1.1181472780836397,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep8",,Nodose_earlyHFD_P21
+GSE320302,GSM9540254,Pnoc,5.367413797544413,6.0,1.1178567977645015,P35_Control,Control,"P35 male nodose ganglia, control, rep1",,Nodose_earlyHFD_P35
+GSE320302,GSM9540255,Pnoc,0.6826777712275849,1.0,1.4648199225848664,P35_Control,Control,"P35 male nodose ganglia, control, rep2",,Nodose_earlyHFD_P35
+GSE320302,GSM9540256,Pnoc,5.737976471504373,5.0,0.8713873305041818,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep1",,Nodose_earlyHFD_P35
+GSE320302,GSM9540257,Pnoc,2.080524306600963,1.0,0.4806480735780206,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep2",,Nodose_earlyHFD_P35
+GSE320302,GSM9540258,Pnoc,8.216988237201422,8.0,0.9735927287544316,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep3",,Nodose_earlyHFD_P35
+GSE320302,GSM9540259,Pnoc,3.657739545399591,4.0,1.0935715762022686,P35_Control,Control,"P35 male nodose ganglia, control, rep3",,Nodose_earlyHFD_P35
+GSE320302,GSM9540260,Pnoc,3.890434924935827,4.0,1.0281626803116313,P35_Control,Control,"P35 male nodose ganglia, control, rep4",,Nodose_earlyHFD_P35
+GSE320302,GSM9540261,Pnoc,6.660525193124851,7.0,1.050968173985073,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep4",,Nodose_earlyHFD_P35
+GSE320302,GSM9540262,Pnoc,1.0890469086341563,1.0,0.9182340926472712,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep5",,Nodose_earlyHFD_P35
+GSE320302,GSM9540263,Pnoc,5.55825403899611,5.0,0.8995630579172056,P35_Control,Control,"P35 male nodose ganglia, control, rep5",,Nodose_earlyHFD_P35
+GSE320302,GSM9540264,Pnoc,0.0,0.0,0.6585976562920118,P35_Control,Control,"P35 male nodose ganglia, control, rep6",,Nodose_earlyHFD_P35
+GSE320302,GSM9540265,Pnoc,2.44954997648456,3.0,1.2247147552814623,P35_Control,Control,"P35 male nodose ganglia, control, rep7",,Nodose_earlyHFD_P35
+GSE320302,GSM9540266,Pnoc,4.537133416013057,5.0,1.1020174064869537,P35_Control,Control,"P35 male nodose ganglia, control, rep8",,Nodose_earlyHFD_P35
+GSE320302,GSM9540267,Pnoc,5.740523059708636,6.0,1.0452009229111143,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep6",,Nodose_earlyHFD_P35
+GSE320302,GSM9540268,Pnoc,1.7770082181906732,2.0,1.1254871978230772,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep7",,Nodose_earlyHFD_P35
+GSE225224,GSM7042113,Oprl1,500.3288480283144,363.0,0.7255228264980181,12wk_Control,Control,12wk_WT_DRG_1,,DRG_HFD_12wk
+GSE225224,GSM7042114,Oprl1,756.1344764374151,709.0,0.937663897221705,12wk_Control,Control,12wk_WT_DRG_2,,DRG_HFD_12wk
+GSE225224,GSM7042115,Oprl1,865.2665237000847,757.0,0.8748749423043534,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_1,,DRG_HFD_12wk
+GSE225224,GSM7042116,Oprl1,934.4588360037084,397.0,0.4248448243025918,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_2,,DRG_HFD_12wk
+GSE225224,GSM7042129,Oprl1,730.2833622815297,708.0,0.9694866904650372,12wk_Control,Control,12wk_WT_DRG_3,,DRG_HFD_12wk
+GSE225224,GSM7042130,Oprl1,818.6578292552357,724.0,0.884374367565324,12wk_Control,Control,12wk_WT_DRG_4,,DRG_HFD_12wk
+GSE225224,GSM7042131,Oprl1,732.7643740539737,644.0,0.8788636877051074,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_3,,DRG_HFD_12wk
+GSE225224,GSM7042132,Oprl1,904.5072956874924,504.0,0.5572094359028057,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_4,,DRG_HFD_12wk
+GSE225224,GSM7042145,Oprl1,732.4490714951991,999.0,1.3639173546369197,12wk_Control,Control,12wk_WT_DRG_5,,DRG_HFD_12wk
+GSE225224,GSM7042146,Oprl1,522.3268557560157,606.0,1.160193073210597,12wk_Control,Control,12wk_WT_DRG_6,,DRG_HFD_12wk
+GSE225224,GSM7042147,Oprl1,761.0394297120308,720.0,0.9460745027001298,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_5,,DRG_HFD_12wk
+GSE225224,GSM7042148,Oprl1,729.0135068174923,898.0,1.2318015943493532,12wk_Hypercaloric,Hypercaloric,12wk_HF_DRG_6,,DRG_HFD_12wk
+GSE225224,GSM7042121,Oprl1,696.5792740988244,664.0,0.9532296246669516,36wk_Control,Control,36wk_WT_DRG_1,,DRG_HFD_36wk
+GSE225224,GSM7042122,Oprl1,718.4938107417796,788.0,1.0967387446058323,36wk_Control,Control,36wk_WT_DRG_2,,DRG_HFD_36wk
+GSE225224,GSM7042123,Oprl1,789.5470599347896,862.0,1.0917651951882317,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_1,,DRG_HFD_36wk
+GSE225224,GSM7042124,Oprl1,687.4692283725299,936.0,1.361515485159715,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_2,,DRG_HFD_36wk
+GSE225224,GSM7042137,Oprl1,919.0789357008608,946.0,1.0292913516493662,36wk_Control,Control,36wk_WT_DRG_3,,DRG_HFD_36wk
+GSE225224,GSM7042138,Oprl1,867.9430307643661,1168.0,1.3457104425060993,36wk_Control,Control,36wk_WT_DRG_4,,DRG_HFD_36wk
+GSE225224,GSM7042139,Oprl1,831.0431504712998,1025.0,1.2333896253385923,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_3,,DRG_HFD_36wk
+GSE225224,GSM7042140,Oprl1,817.2973533843119,1292.0,1.5808199973363577,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_4,,DRG_HFD_36wk
+GSE225224,GSM7042152,Oprl1,880.3891226828898,1246.0,1.415283274062895,36wk_Control,Control,36wk_WT_DRG_5,,DRG_HFD_36wk
+GSE225224,GSM7042153,Oprl1,719.761059356234,804.0,1.1170373689278366,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_5,,DRG_HFD_36wk
+GSE225224,GSM7042154,Oprl1,612.2646736191094,586.0,0.9571024186911544,36wk_Hypercaloric,Hypercaloric,36wk_HF_DRG_6,,DRG_HFD_36wk
+GSE281091,GSM8610734,Oprl1,569.595,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male1, biol rep 1",male,Nodose_HFD_4wk
+GSE281091,GSM8610735,Oprl1,662.533,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male2, biol rep 2",male,Nodose_HFD_4wk
+GSE281091,GSM8610736,Oprl1,626.676,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_male3, biol rep 3",male,Nodose_HFD_4wk
+GSE281091,GSM8610737,Oprl1,630.124,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female1, biol rep 4",female,Nodose_HFD_4wk
+GSE281091,GSM8610738,Oprl1,592.692,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female2, biol rep 5",female,Nodose_HFD_4wk
+GSE281091,GSM8610739,Oprl1,628.479,,,Hypercaloric,Hypercaloric,"Nodose ganglia, non-fasted_high fat diet_female3, biol rep 6",female,Nodose_HFD_4wk
+GSE281091,GSM8610740,Oprl1,679.846,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male1, biol rep 1",male,Nodose_HFD_4wk
+GSE281091,GSM8610741,Oprl1,658.537,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male2, biol rep 2",male,Nodose_HFD_4wk
+GSE281091,GSM8610742,Oprl1,672.827,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_male3, biol rep 3",male,Nodose_HFD_4wk
+GSE281091,GSM8610743,Oprl1,627.772,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female1, biol rep 4",female,Nodose_HFD_4wk
+GSE281091,GSM8610744,Oprl1,645.713,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female2, biol rep 5",female,Nodose_HFD_4wk
+GSE281091,GSM8610745,Oprl1,626.281,,,Control,Control,"Nodose ganglia, non-fasted_regular chow_female3, biol rep 6",female,Nodose_HFD_4wk
+GSE320302,GSM9540238,Oprl1,98.1735192979582,135.0,1.3751162326194384,P21_Control,Control,"P21 male nodose ganglia, control, rep1",,Nodose_earlyHFD_P21
+GSE320302,GSM9540239,Oprl1,88.74676797513573,113.0,1.2732858061001089,P21_Control,Control,"P21 male nodose ganglia, control, rep2",,Nodose_earlyHFD_P21
+GSE320302,GSM9540240,Oprl1,119.2204624742379,121.0,1.0149264437398624,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep1",,Nodose_earlyHFD_P21
+GSE320302,GSM9540241,Oprl1,77.95275604489922,48.0,0.615757574656539,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep2",,Nodose_earlyHFD_P21
+GSE320302,GSM9540242,Oprl1,85.63140212276733,97.0,1.1327620194859571,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep3",,Nodose_earlyHFD_P21
+GSE320302,GSM9540243,Oprl1,98.28478919582508,99.0,1.0072769226044729,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep4",,Nodose_earlyHFD_P21
+GSE320302,GSM9540244,Oprl1,90.39531385650744,110.0,1.2168772396167884,P21_Control,Control,"P21 male nodose ganglia, control, rep3",,Nodose_earlyHFD_P21
+GSE320302,GSM9540245,Oprl1,88.23408809047636,100.0,1.133348824294061,P21_Control,Control,"P21 male nodose ganglia, control, rep4",,Nodose_earlyHFD_P21
+GSE320302,GSM9540246,Oprl1,99.5287606088482,46.0,0.4621779646265439,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep5",,Nodose_earlyHFD_P21
+GSE320302,GSM9540247,Oprl1,98.56932114688642,226.0,2.2928026425506007,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep6",,Nodose_earlyHFD_P21
+GSE320302,GSM9540248,Oprl1,72.92122391844651,77.0,1.0559340047023222,P21_Control,Control,"P21 male nodose ganglia, control, rep5",,Nodose_earlyHFD_P21
+GSE320302,GSM9540249,Oprl1,69.50541800586358,69.0,0.9927283653510156,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep7",,Nodose_earlyHFD_P21
+GSE320302,GSM9540250,Oprl1,90.2006107585041,68.0,0.7538751614671186,P21_Control,Control,"P21 male nodose ganglia, control, rep6",,Nodose_earlyHFD_P21
+GSE320302,GSM9540251,Oprl1,94.129713306868,79.0,0.8392674026580288,P21_Control,Control,"P21 male nodose ganglia, control, rep7",,Nodose_earlyHFD_P21
+GSE320302,GSM9540252,Oprl1,102.99368620391051,125.0,1.2136666295497047,P21_Control,Control,"P21 male nodose ganglia, control, rep8",,Nodose_earlyHFD_P21
+GSE320302,GSM9540253,Oprl1,114.47508079559566,128.0,1.1181472780836397,P21_Hypercaloric,Hypercaloric,"P21 male nodose ganglia, high-fat diet, rep8",,Nodose_earlyHFD_P21
+GSE320302,GSM9540254,Oprl1,73.35465523310698,82.0,1.1178567977645015,P35_Control,Control,"P35 male nodose ganglia, control, rep1",,Nodose_earlyHFD_P35
+GSE320302,GSM9540255,Oprl1,215.04349793668925,315.0,1.4648199225848664,P35_Control,Control,"P35 male nodose ganglia, control, rep2",,Nodose_earlyHFD_P35
+GSE320302,GSM9540256,Oprl1,102.13598119277783,89.0,0.8713873305041818,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep1",,Nodose_earlyHFD_P35
+GSE320302,GSM9540257,Oprl1,95.70411810364428,46.0,0.4806480735780206,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep2",,Nodose_earlyHFD_P35
+GSE320302,GSM9540258,Oprl1,97.57673531676689,95.0,0.9735927287544316,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep3",,Nodose_earlyHFD_P35
+GSE320302,GSM9540259,Oprl1,106.07444681658814,116.0,1.0935715762022686,P35_Control,Control,"P35 male nodose ganglia, control, rep3",,Nodose_earlyHFD_P35
+GSE320302,GSM9540260,Oprl1,94.3430469296938,97.0,1.0281626803116313,P35_Control,Control,"P35 male nodose ganglia, control, rep4",,Nodose_earlyHFD_P35
+GSE320302,GSM9540261,Oprl1,103.71389229294412,109.0,1.050968173985073,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep4",,Nodose_earlyHFD_P35
+GSE320302,GSM9540262,Oprl1,120.88420685839137,111.0,0.9182340926472712,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep5",,Nodose_earlyHFD_P35
+GSE320302,GSM9540263,Oprl1,115.6116840111191,104.0,0.8995630579172056,P35_Control,Control,"P35 male nodose ganglia, control, rep5",,Nodose_earlyHFD_P35
+GSE320302,GSM9540264,Oprl1,104.76806186720847,69.0,0.6585976562920118,P35_Control,Control,"P35 male nodose ganglia, control, rep6",,Nodose_earlyHFD_P35
+GSE320302,GSM9540265,Oprl1,101.24806569469516,124.0,1.2247147552814623,P35_Control,Control,"P35 male nodose ganglia, control, rep7",,Nodose_earlyHFD_P35
+GSE320302,GSM9540266,Oprl1,83.48325485464024,92.0,1.1020174064869537,P35_Control,Control,"P35 male nodose ganglia, control, rep8",,Nodose_earlyHFD_P35
+GSE320302,GSM9540267,Oprl1,94.71863048519248,99.0,1.0452009229111143,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep6",,Nodose_earlyHFD_P35
+GSE320302,GSM9540268,Oprl1,69.30332050943625,78.0,1.1254871978230772,P35_Hypercaloric,Hypercaloric,"P35 male nodose ganglia, high-fat diet, rep7",,Nodose_earlyHFD_P35

@@ -2,11 +2,9 @@
 
 ## Status
 
-The uploaded workbook is a catalogue, not an expression dataset. Dataset contents,
-replication, diet assignments and publications have not yet been independently
-verified. Initial official GEO requests were denied by network policy. No gene
-expression estimates, differential-expression tests or biological data figures
-have been produced. Files named STYLE_PROOF_NOT_DATA are typography checks only.
+Executed on 2 November 2026. Results, deviations from this plan (moderated linear model for
+GSE281091; Python 3.13; post-hoc robustness checks) and caveats are documented in
+[REPORT.md](../REPORT.md). The plan below is retained unchanged as the prespecification.
 
 ## Primary question and estimands
 

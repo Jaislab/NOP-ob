@@ -5,14 +5,13 @@ __pycache__/
 *.py[cod]
 .env
 .env.*
-data/*
-!data/README.md
-results/*
-!results/README.md
-figures/*
-!figures/README.md
+# Raw downloads are re-creatable from metadata/download_manifest.json (hashes recorded)
+data/raw/
+# Processed pseudobulk (re-creatable via scripts/sc_pseudobulk.py)
+data/processed/
 logs/*
 !logs/README.md
-metadata/GSE*/
+metadata/GSE*/*.soft.gz
+metadata/GSE*/supplementary_listing.html
 metadata/*_access_retry.*
 metadata/*_listing_retry.*

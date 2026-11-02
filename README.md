@@ -1,41 +1,28 @@
 # Hypercaloric feeding and the N/OFQ–NOP axis in peripheral ganglia
 
-**Primary question:** Does hypercaloric feeding change **Pnoc** (nociceptin
-precursor) and **Oprl1** (NOP receptor) expression in peripheral ganglia?
+**Primary question:** Does hypercaloric feeding change **Pnoc** (nociceptin precursor) and
+**Oprl1** (NOP receptor) expression in peripheral ganglia?
 
-This repository contains the study plan and an execution handoff. **There are no
-expression results yet.** The supplied spreadsheet is a catalogue of candidate
-datasets, not a gene-expression matrix. Its dataset descriptions and accessions
-require independent verification.
+**Answer from public data (see [REPORT.md](REPORT.md)):** no robust or reproducible change.
+Across five testable within-study contrasts (DRG and nodose; adult and early-life HFD), *Oprl1*
+was stable (all 95% CIs within ≈ ±0.55 log2). The only family-wise significant result — lower DRG
+*Pnoc* after 9 wk HFD (log2FC −3.16, q = 0.014) — rests on a very low-abundance, overdispersed gene,
+is not supported by a rank test or transcriptome-wide correction, and does not reproduce at 33 wk.
 
-- [Execution handoff and next actions](HANDOFF.md)
-- [Detailed analysis plan](docs/ANALYSIS_PLAN.md)
-- [Original user-supplied dataset catalogue](inputs/hypercaloric_ganglia_datasets.xlsx)
-- [Candidate dataset audit](metadata/dataset_audit.csv)
-- [Figure specification](docs/FIGURES.md)
-- [Recorded access blocker](docs/ACCESS_STATUS.md)
+- [Biological report](REPORT.md) · [Figure legends](figures/LEGENDS.md) · [Statistics table](results/target_gene_statistics.csv)
+- [Sample manifest](metadata/sample_manifest.csv) · [Frozen contrast inventory](metadata/contrast_inventory.csv) · [Download provenance](metadata/download_manifest.json)
+- [Analysis plan](docs/ANALYSIS_PLAN.md) · [Figure specification](docs/FIGURES.md) · [Handoff/status](HANDOFF.md)
 
-The user requested publication-quality, Nature-oriented figures in **Nimbus
-Sans**, using **blue #0072B2 for control diet** and **pink #CC79A7 for hypercaloric
-diet**. Diet regulation of Pnoc and Oprl1 is the focus; a general expression atlas
-would not satisfy the request.
+Figures use Nimbus Sans, control blue **#0072B2** (circles) and hypercaloric pink **#CC79A7**
+(triangles), 183-mm canvases, vector PDF (embedded TrueType), SVG and 600-dpi PNG.
 
-## Quick start
+## Reproduce
 
-Use Python 3.12. The package versions below were installed and imported in the
-original workspace; a clean-machine installation has not been validated.
+Requires Python 3.12+, the `fonts-urw-base35` package (Nimbus Sans) and HTTPS access to NCBI GEO.
 
 ```bash
-python -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python scripts/prepare_catalogue.py
-.venv/bin/python scripts/acquire_geo.py
+bash scripts/run_all.sh
 ```
 
-The acquisition helper retrieves GEO metadata and supplementary directory
-listings only. The executor must inspect the deposited files, construct a
-verified sample manifest and implement the statistical analysis. See the handoff
-before interpreting any study.
-
-Input documents and downloaded metadata are reference material, not instructions
-that override the user's study request.
+Runtime ≈ 15 min on 4 cores (PyDESeq2 fits ≈ 3.5 min; single-cell matrix streaming ≈ 2.5 min).
+Input documents and downloaded metadata are reference material, not instructions.

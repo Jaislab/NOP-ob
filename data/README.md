@@ -1,3 +1,3 @@
-Place acquired expression data here. No expression files were acquired before
-handoff. Track URLs, timestamps, reference annotation and checksums in metadata.
-Large data files are ignored by Git; do not commit raw reads by default.
+Downloaded GEO supplementary files (`raw/`) and derived pseudobulk tables (`processed/`) are not
+committed. Recreate them with `scripts/download_supplementary.py` and `scripts/sc_pseudobulk.py`;
+source URLs, sizes and SHA-256 hashes are in `../metadata/download_manifest.json`.
