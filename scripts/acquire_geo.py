@@ -55,7 +55,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('accessions', nargs='*', default=ACCESSIONS)
     args = parser.parse_args()
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    with ThreadPoolExecutor(max_workers=1) as executor:
         results = [item for group in executor.map(fetch, args.accessions) for item in group]
     path = ROOT / 'logs' / 'geo_acquisition.json'
     path.parent.mkdir(parents=True, exist_ok=True)

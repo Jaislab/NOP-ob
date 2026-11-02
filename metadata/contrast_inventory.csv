@@ -1,0 +1,9 @@
+contrast_id,series,ganglion,assay,exposure,numerator,denominator,method,family,status
+DRG_HFD_12wk,GSE225224,DRG,bulk RNA-seq,"adult HFD, 9 wk",12wk_Hypercaloric,12wk_Control,"PyDESeq2 Wald, ~group (DRG only)",primary,inferential
+DRG_HFD_36wk,GSE225224,DRG,bulk RNA-seq,"adult HFD, 33 wk",36wk_Hypercaloric,36wk_Control,"PyDESeq2 Wald, ~group (DRG only)",primary,inferential
+DRG_Nav18_TRAP_WD,GSE198895,DRG Nav1.8+,TRAP-seq,"adult Western diet, 11 wk",Hypercaloric,Control,"PyDESeq2 Wald, ~group",primary,exploratory (n=2 pools/arm)
+Nodose_HFD_4wk,GSE281091,nodose,bulk RNA-seq,"adult HFD, 4 wk",Hypercaloric,Control,"moderated linear model on log2(normalized+1), ~sex+diet (raw counts not deposited)",primary,inferential
+Nodose_earlyHFD_P21,GSE320302,nodose,bulk RNA-seq,"early-life HFD, concurrent at P21",P21_Hypercaloric,P21_Control,"PyDESeq2 Wald, ~group",primary,inferential; litter not deposited
+Nodose_earlyHFD_P35,GSE320302,nodose,bulk RNA-seq,"early-life HFD, persistence at P35",P35_Hypercaloric,P35_Control,"PyDESeq2 Wald, ~group",primary,inferential; litter not deposited
+Symp_obese_scRNA,GSE233163,SCG / stellate,scRNA-seq,"adult HFD, 12 wk",Hypercaloric,Control,descriptive pseudobulk only,none,not testable: diet confounded with run; pooled libraries
+Vagus_PTEN_HFD,GSE309905,nodose/vagus,snRNA-seq,HFD only,-,-,none,none,not testable: no control diet
