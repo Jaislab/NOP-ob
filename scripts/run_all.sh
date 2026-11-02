@@ -18,3 +18,6 @@ $PY scripts/context_gse309905.py
 $PY scripts/make_figures.py
 $PY scripts/feeding_analysis.py
 $PY scripts/make_feeding_figures.py
+mkdir -p data/raw/msigdb && curl -sS -o data/raw/msigdb/m5.go.bp.v2024.1.Mm.symbols.gmt https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2024.1.Mm/m5.go.bp.v2024.1.Mm.symbols.gmt
+$PY scripts/hfd_consensus.py
+$PY scripts/make_consensus_figure.py

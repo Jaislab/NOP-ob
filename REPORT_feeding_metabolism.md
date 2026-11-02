@@ -101,3 +101,70 @@ artifact does not alter the *Pnoc*/*Oprl1* conclusions of the primary report.
 - **Fig. 4** Fasting response of the nodose ganglion.
 - **Fig. 5** HFD vs fasting concordance and the satiety/nutrient-sensing panel across nodose datasets.
 - **Fig. S4** Gene-length technical axis in GSE281091.
+
+---
+
+# Which feeding-regulatory genes does HFD change in all ganglia, ideally opposite to fasting?
+
+Prespecified in `metadata/hfd_consensus_plan.md` (commit 86ebb21). Results:
+`results/consensus/feeding_gene_consensus.csv`; Fig. 6.
+
+## Answer
+
+**No feeding-regulatory gene is reproducibly changed by HFD across ganglia, and none shows
+significant HFD/fasting counter-regulation.**
+
+- **Gene universe:** 289 genes from GO feeding/eating/appetite/energy-homeostasis/leptin sets plus
+  the curated vagal panel; 184 are expressed in both primary ganglia (DRG, GSE225224; nodose,
+  GSE281091).
+- **Conjunction test** ("changed in DRG *and* nodose"): best P = 0.024, every q = 1.0.
+  Transcriptome-wide, 0 of 13,947 genes reach q < 0.1.
+- **Detectable effects:** the design could detect shared changes of roughly 0.25–0.42 log2
+  (≈ 20–35%) in half of the feeding genes (80% power, one-sided α = 0.05 in each ganglion). Shared
+  regulation larger than that is unlikely for most well-expressed feeding genes; smaller or
+  cell-type-restricted changes cannot be excluded.
+
+## Best nominal candidates (not significant after correction)
+
+| Gene | HFD direction | DRG 12/36 wk | Nodose HFD | Fasting (nodose) | Comment |
+|---|---|---|---|---|---|
+| *Pparg* | ↑ | +1.60 / +0.60 | +0.49 | +0.07 | Also ↑ in Nav1.8 TRAP and early-life nodose; in DRG it rises with adipocyte genes (*Cidea*, *Cidec*, *Fabp4*), so extra fat around the ganglia is a likely contributor; not counter-regulated by fasting |
+| *Ugcg* | ↑ | +0.07 / +0.24 | +0.15 | −0.01 | Small effects |
+| *Acacb* | ↓ | −0.33 / −0.31 | −0.23 | **+0.27** | Counter-regulated by fasting (P_counter = 0.12) |
+| *Insr* | ↓ | −0.15 / −0.09 | −0.12 | **+0.09** | Counter-regulated (P_counter = 0.14) |
+| *Cnr1* | ↓ | −0.09 / −0.14 | −0.11 | **+0.21** | Counter-regulated (P_counter = 0.25) |
+| *Pomc* | ↑ | +0.79 / +0.30 | +0.19 | **−0.26** | Counter-regulated (P_counter = 0.34) |
+| *Cartpt* | ↑ | +0.60 / −0.32 | +0.23 | **−0.11** | Counter-regulated (P_counter = 0.39) |
+
+- **A pattern worth noting:** the counter-regulated candidates make a coherent "energy-surplus"
+  pattern. Anorexigenic *Pomc*/*Cartpt* go up with HFD and down with fasting; orexigenic/anabolic
+  *Cnr1*, *Insr* and *Acacb* go down with HFD and up with fasting. The effects are small (≤ 0.3
+  log2 in nodose) and individually not significant.
+- **The pattern is not enriched.** Among feeding genes changing in the same direction in DRG and
+  nodose, 45% are counter-regulated by fasting, the same as transcriptome-wide (45%; Fisher
+  P = 1.0). It may be chance.
+
+## Ganglion-specific rather than shared
+
+- **Nodose HFD changes stay in the nodose.** The robust nodose changes (*Uts2b* ↑, *Vip* ↑,
+  *Lepr* ↓) do not appear in DRG: *Lepr* +0.24, *Uts2b* −0.23, and *Vip* is not expressed in DRG.
+- **DRG *Pnoc* ↓ stays in the DRG.** The 12-wk DRG *Pnoc* decrease is absent in nodose (−0.05).
+
+## Sympathetic ganglia (GSE233163, descriptive)
+
+- **Confounded design:** whole-ganglion pseudobulk from the obese pool (run N68) was compared with
+  lean pools (runs N61, N66).
+- **Run noise matches the diet differences:** for most candidates the obese–lean difference is no
+  larger than the difference between the two lean runs (*Pparg* SCG −0.94 vs a lean run difference
+  of −0.78), and *Pparg* goes the opposite way to DRG/nodose.
+- **No conclusion is possible**, because diet is confounded with run.
+
+## Caveats
+
+- **Fasting data:** fasting data exist for nodose only. GEO searches (2 Nov 2026) found no DRG or
+  sympathetic-ganglion fasting datasets: GSE239596 is an insulin-receptor-antagonist model and
+  GSE224316 is DRG leptin overexpression.
+- **Nodose model choice:** the primary nodose model adjusts for the RNA-quality (gene-length) axis.
+  Prespecified-model and female-only versions of every test are in the results table.
+- **Different exposures:** DRG (45% HFD, 9–33 wk, males) and nodose (60% HFD, 4 wk, both sexes)
+  differ in diet, duration and sex, which reduces the chance of seeing shared effects.

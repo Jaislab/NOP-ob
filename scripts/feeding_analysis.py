@@ -227,6 +227,10 @@ def length_sensitivity():
         for cid, r in res.items():
             r = r.assign(gene=sym.reindex(r.index).values)
             n05 = int((bh(r.p) < 0.05).sum())
+            tag = 'female_only' if label == 'female only' else 'length_adjusted'
+            rr = r.assign(baseMean=X.loc[mm.index, r.index].mean().values, padj_transcriptome=bh(r.p))
+            rr.index.name = 'gene_id'
+            rr.to_csv(OUT/'de'/f'{cid}_{tag}_transcriptome.csv.gz')
             for gene in PANELS.gene.unique():
                 h = r[r.gene == gene]
                 if len(h):

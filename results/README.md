@@ -11,6 +11,7 @@
 | `single_cell/` | GSE233163 pool × cell-type summaries and composition; GSE309905 context |
 | `model_notes.json` | Annotation checks, duplicated IDs, Cook's distances, moderation priors |
 | `feeding/` | Modules A–C: fasting/refeeding/HFD nodose models, panel statistics, sensitivities, concordance permutation, length-bias index |
+| `consensus/` | Cross-ganglion HFD consensus of feeding-regulatory genes with fasting counter-regulation (conjunction tests), gene universe, transcriptome-wide context |
 | `environment_pip_freeze.txt` | Exact package versions used |
 
 See `../REPORT.md` for interpretation.

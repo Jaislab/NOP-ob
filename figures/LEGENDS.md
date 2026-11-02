@@ -68,3 +68,18 @@ three HFD effects robust to both sensitivities. Symbols as Fig. 4.
 (24 samples); PC2 separates sex. **b**, PC1 against the per-sample length-bias index (Spearman ρ
 between centred log expression and log10 gene length across expressed genes). The three HFD-male
 samples carry strong length bias, typical of reduced RNA integrity or 3′ bias.
+
+**Fig. 6 | No feeding-regulatory gene is consistently changed by HFD across ganglia.**
+**a**, HFD log2 fold changes in DRG (GSE225224; inverse-variance combination of 12- and 36-wk
+PyDESeq2 estimates) vs nodose (GSE281091; moderated model adjusted for sex and length-bias index)
+for 184 expressed feeding-regulatory genes (GO feeding/eating/appetite/energy-homeostasis/leptin
+sets plus curated vagal panel); orange, fasting (nodose, 18 h) changes in the opposite direction to
+nodose HFD; grey dots, all other genes. No gene reached BH q < 0.1 in the conjunction test
+(changed in both ganglia). **b**, The 16 genes with the smallest conjunction P plus *Lepr*, *Uts2b*,
+*Pnoc*, *Oprl1*, across all datasets: DRG 12 and 36 wk (n = 6/6, 5/6), Nav1.8⁺ DRG TRAP (2/2 pools),
+nodose adult HFD (6/6) and early-life HFD at P21 (8/8), sympathetic SCG and stellate obese pool vs
+lean pools (descriptive; diet confounded with sequencing run; dot, obese–lean difference no larger
+than the lean between-run difference), and nodose fasting. Row label: consensus direction and
+conjunction P (– if P = 1). ○, nominal P < 0.05. **c**, Adipocyte markers in DRG and nodose HFD
+contrasts; the DRG 12-wk *Pparg* increase is accompanied by *Cidea*/*Cidec*/*Fabp4*, suggesting
+more perineural adipose tissue in the dissected samples.
