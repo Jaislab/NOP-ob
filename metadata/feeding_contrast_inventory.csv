@@ -1,0 +1,8 @@
+contrast_id,series,module,numerator,denominator,method,families,notes
+Nodose_fasted18h_vs_fed,GSE281091,A,Fasted,NonFasted,"moderated linear model on log2(normalized+1), 24 samples, ~group+sex",A_nop; A_panel,18 h food deprivation vs ad libitum chow
+Nodose_refed20min_vs_fasted,GSE281091,A,Refed,Fasted,same model,A_nop; A_panel; A_ieg,20 min refeeding after 18 h fast: acute response (immediate-early genes)
+Nodose_refed20min_vs_fed,GSE281091,A,Refed,NonFasted,same model,secondary (no family),reported for completeness
+Nodose_HFD_4wk_vs_fed,GSE281091,C,HFD,NonFasted,same model,C_panel,adult 60% HFD 4 wk; same animals as primary analysis but variance shared across 24 samples
+Nodose_earlyHFD_P21,GSE320302,C,P21_Hypercaloric,P21_Control,existing PyDESeq2 fit,C_panel,early-life HFD at weaning
+Nodose_earlyHFD_P35,GSE320302,C,P35_Hypercaloric,P35_Control,existing PyDESeq2 fit,C_panel,2 wk after weaning to chow
+B_concordance,GSE281091,B,,,"Spearman correlation of log2FC (HFD vs fed) with (fasted vs fed) across expressed genes (mean normalized >=10); exact within-sex permutation of HFD/fed labels (400 relabelings) to account for shared controls",B (single test),one-sided H1: positive concordance (HFD resembles fasting); sensitivities: female-only; predicted-direction panel genes

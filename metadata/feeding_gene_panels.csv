@@ -1,0 +1,43 @@
+panel,gene,category,predicted_fasting,predicted_HFD,rationale
+nop,Pnoc,N/OFQ precursor,,,primary genes of the study
+nop,Oprl1,NOP receptor,,,primary genes of the study
+vagal_feeding,Cckar,gut-hormone receptor,,,CCK satiety signalling
+vagal_feeding,Glp1r,gut-hormone receptor,,,GLP-1 satiety / stretch afferents
+vagal_feeding,Gipr,gut-hormone receptor,,,GIP signalling
+vagal_feeding,Gpr65,nutrient/chemosensory receptor,,,intestinal nutrient-sensing vagal afferents
+vagal_feeding,Npy2r,gut-hormone receptor,down,down,PYY Y2 receptor; fasting/DIO reduce in rat nodose (Burdyga; de Lartigue)
+vagal_feeding,Lepr,adipokine receptor,,,leptin action on vagal afferents
+vagal_feeding,Ghsr,gut-hormone receptor,,,ghrelin receptor
+vagal_feeding,Oxtr,neuropeptide receptor,,,oxytocin receptor on vagal afferents
+vagal_feeding,Htr3a,serotonin receptor,,,enterochromaffin/5-HT signalling
+vagal_feeding,Ffar3,nutrient receptor,,,short-chain fatty acid sensing
+vagal_feeding,Insr,hormone receptor,,,insulin signalling in vagal neurons
+vagal_feeding,Calcr,hormone receptor,,,amylin/calcitonin receptor
+vagal_feeding,Piezo1,mechanosensor,,,mechanotransduction
+vagal_feeding,Piezo2,mechanosensor,,,stretch-sensitive vagal afferents
+vagal_feeding,P2rx2,purinergic receptor,,,vagal afferent marker / ATP
+vagal_feeding,P2rx3,purinergic receptor,,,vagal afferent marker / ATP
+vagal_feeding,Vip,neuropeptide,,,mucosal/GI vagal afferent subtype marker
+vagal_feeding,Uts2b,neuropeptide,,,GI vagal afferent subtype marker
+vagal_feeding,Sst,neuropeptide,,,vagal afferent subtype marker
+vagal_feeding,Calca,neuropeptide,,,CGRP; anorexigenic signalling
+vagal_feeding,Cartpt,neuropeptide,down,down,CART falls with fasting and in DIO (de Lartigue 2007/2011); GSE281091 paper focus
+vagal_feeding,Cnr1,receptor,up,up,CB1 rises with fasting and in DIO (Burdyga 2004; de Lartigue 2011)
+vagal_feeding,Mchr1,receptor,up,,MCH1R rises with fasting (Burdyga 2006)
+vagal_feeding,Pmch,neuropeptide,up,,MCH rises with fasting (de Lartigue 2011)
+vagal_feeding,Mc4r,receptor,,,melanocortin signalling in vagal afferents
+vagal_feeding,Npy1r,receptor,,,NPY Y1 receptor
+ieg,Fos,immediate-early gene,,,activity marker
+ieg,Fosb,immediate-early gene,,,activity marker
+ieg,Jun,immediate-early gene,,,activity marker
+ieg,Junb,immediate-early gene,,,activity marker
+ieg,Egr1,immediate-early gene,,,activity marker
+ieg,Egr2,immediate-early gene,,,activity marker
+ieg,Egr3,immediate-early gene,,,activity marker
+ieg,Nr4a1,immediate-early gene,,,activity marker
+ieg,Nr4a2,immediate-early gene,,,activity marker
+ieg,Nr4a3,immediate-early gene,,,activity marker
+ieg,Arc,immediate-early gene,,,activity marker
+ieg,Npas4,immediate-early gene,,,activity marker
+ieg,Ier2,immediate-early gene,,,activity marker
+ieg,Atf3,stress/injury IEG,,,activity/stress marker
