@@ -10,6 +10,7 @@
 | `qc/` | Per-sample QC (library size, size factors, PCA, similarity flags), target dispersions |
 | `single_cell/` | GSE233163 pool × cell-type summaries and composition; GSE309905 context |
 | `model_notes.json` | Annotation checks, duplicated IDs, Cook's distances, moderation priors |
+| `feeding/` | Modules A–C: fasting/refeeding/HFD nodose models, panel statistics, sensitivities, concordance permutation, length-bias index |
 | `environment_pip_freeze.txt` | Exact package versions used |
 
 See `../REPORT.md` for interpretation.

@@ -9,7 +9,7 @@ was stable (all 95% CIs within ≈ ±0.55 log2). The only family-wise significan
 *Pnoc* after 9 wk HFD (log2FC −3.16, q = 0.014) — rests on a very low-abundance, overdispersed gene,
 is not supported by a rank test or transcriptome-wide correction, and does not reproduce at 33 wk.
 
-- [Biological report](REPORT.md) · [Figure legends](figures/LEGENDS.md) · [Statistics table](results/target_gene_statistics.csv)
+- [Biological report](REPORT.md) · [Feeding-regulation report (fasting, satiety receptors)](REPORT_feeding_metabolism.md) · [Figure legends](figures/LEGENDS.md) · [Statistics table](results/target_gene_statistics.csv)
 - [Sample manifest](metadata/sample_manifest.csv) · [Frozen contrast inventory](metadata/contrast_inventory.csv) · [Download provenance](metadata/download_manifest.json)
 - [Analysis plan](docs/ANALYSIS_PLAN.md) · [Figure specification](docs/FIGURES.md) · [Handoff/status](HANDOFF.md)
 

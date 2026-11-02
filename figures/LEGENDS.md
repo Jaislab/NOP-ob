@@ -39,3 +39,32 @@ family; not specific readouts of N/OFQ signaling). Arrows, CI beyond axis.
 **Fig. S3 | Exploratory opioid ligand/receptor panel.** As Fig. 1 for *Penk*, *Pdyn*, *Pomc*, *Oprm1*,
 *Oprd1*, *Oprk1* (separate exploratory BH family). Numbers at the axis edge give estimates beyond the
 axis; open squares, low abundance or detection in <50% of samples in an arm.
+
+## Feeding-regulation figures (modules A–C; see `../REPORT_feeding_metabolism.md`)
+
+Additional colours (Okabe–Ito): fasted 18 h orange #E69F00 (squares); fasted + refed 20 min bluish
+green #009E73 (diamonds). Chow fed = control blue circles; HFD 4 wk = pink triangles.
+
+**Fig. 4 | Fasting response of the mouse nodose ganglion (GSE281091).** **a**, Volcano plot,
+18-h fasted vs ad libitum chow-fed (n = 6 vs 6, 3 M + 3 F each), moderated linear model on
+log2(DESeq2-normalized + 1) adjusted for sex, 24-sample variance model; genes with mean normalized
+count ≥ 10; coloured, transcriptome-wide BH padj < 0.05. **b–g**, Per-animal normalized counts for
+*Pnoc*, *Oprl1* and prespecified feeding-panel genes across fed, fasted, refed (18-h fast + 20 min
+food) and HFD (4 wk) mice; bar, median; open, females; ring, samples with length-bias index < −0.2
+(technical axis, Fig. S4). q, BH within the prespecified family; length-adjusted P, post hoc
+sensitivity model including the per-sample length-bias index.
+
+**Fig. 5 | HFD does not reproduce the fasting state; robust HFD changes in vagal feeding genes.**
+**a**, Gene-wise log2 fold changes, HFD vs fed against fasted vs fed (19,711 genes, mean ≥ 10;
+hexagon density, log scale). **b**, Null distribution of Spearman ρ under all 400 within-sex
+relabellings of HFD/fed animals (accounts for the shared fed controls); pink line, observed;
+one-sided P. **c**, Satiety/nutrient-sensing panel: log2 fold changes for fasting (adult), HFD adult
+(prespecified, female-only and length-adjusted sensitivities) and early-life HFD at P21/P35
+(GSE320302, PyDESeq2, n = 8/8 and 8/7). Filled dot, BH q < 0.05 within the prespecified family;
+open dot, nominal P < 0.05; ×, absent from matrix or mean < 5. **d–f**, Per-animal values for the
+three HFD effects robust to both sensitivities. Symbols as Fig. 4.
+
+**Fig. S4 | Technical axis in GSE281091.** **a**, PCA of the 500 most variable expressed genes
+(24 samples); PC2 separates sex. **b**, PC1 against the per-sample length-bias index (Spearman ρ
+between centred log expression and log10 gene length across expressed genes). The three HFD-male
+samples carry strong length bias, typical of reduced RNA integrity or 3′ bias.

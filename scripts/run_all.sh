@@ -16,3 +16,5 @@ $PY scripts/sc_pseudobulk.py
 $PY scripts/sc_descriptive.py
 $PY scripts/context_gse309905.py
 $PY scripts/make_figures.py
+$PY scripts/feeding_analysis.py
+$PY scripts/make_feeding_figures.py

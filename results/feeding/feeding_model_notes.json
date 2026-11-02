@@ -1,0 +1,36 @@
+{
+  "n_genes_intersection": 21621,
+  "rescale_factor_3A_to_3B": 0.9885649320960663,
+  "per_shared_sample_factors": {
+    "YJB-9199_19_S19": 0.9868164738787425,
+    "YJB-9199_20_S20": 0.9903133903133902,
+    "YJB-9199_21_S21": 0.9827664482501954,
+    "YJB-9199_22_S22": 0.9926404428324911,
+    "YJB-9199_23_S23": 0.9845159151193633,
+    "YJB-9199_24_S24": 0.9918533718066093
+  },
+  "rescaled_shared_max_abs_log2_dev": 0.008497582608414562,
+  "prior_df": 3.601252036846065,
+  "residual_df": 19,
+  "Nodose_fasted18h_vs_fed_n_padj05": 395,
+  "Nodose_refed20min_vs_fasted_n_padj05": 0,
+  "Nodose_refed20min_vs_fed_n_padj05": 763,
+  "Nodose_HFD_4wk_vs_fed_n_padj05": 3,
+  "moduleB": {
+    "n_genes": 19711,
+    "spearman_observed": 0.0949587341733232,
+    "permutation_p_one_sided": 0.59,
+    "n_permutations": 400,
+    "perm_null_mean": 0.2670656239495153,
+    "perm_null_95pct": 0.7922136041656537,
+    "female_only_observed": 0.46774302607745377,
+    "female_only_p": 0.35,
+    "female_only_n_perm": 20,
+    "split_control_median": 0.013176384806777061,
+    "split_control_range": [
+      -0.34809656154709445,
+      0.36936058868291116
+    ],
+    "spearman_with_refed_arm": 0.07036387404333261
+  }
+}

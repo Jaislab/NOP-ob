@@ -1,0 +1,157 @@
+column,contrast_id,sensitivity,gene,log2fc,p,padj_family_BH
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Cckar,-0.0546530654484276,0.5319646452961381,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Glp1r,0.0736893310921882,0.676679094487559,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Gipr,-0.1726776956546531,0.4747043144407417,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Gpr65,0.2575689777179628,0.0423271246596113,0.6772339945537813
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Npy2r,0.0720911405236487,0.5175679855119787,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Lepr,-0.1679584342624931,0.2660322091033494,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Ghsr,-0.704680342991969,0.1575516577563662,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Oxtr,-0.3706149532561383,0.0209611225487141,0.50306694116914
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Htr3a,0.3217913385743525,0.0021756410787086,0.1044307717780155
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Ffar3,-0.0199910445064631,0.9194976091147072,0.9194976091147072
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Insr,0.0930915915879133,0.5168893750491779,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Calcr,,,
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Piezo1,0.1254183666898174,0.2792351235808044,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Piezo2,0.2514136870432569,0.2832521319092757,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,P2rx2,-0.0423179848845355,0.6893181482509955,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,P2rx3,-0.1129917911805553,0.4418787399797679,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Vip,0.0679196234447423,0.5797255639757808,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Uts2b,0.1457402856413688,0.352992105363098,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Sst,0.1193179184565379,0.6177668402335346,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Calca,0.1152562692178268,0.6845509781023765,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Cartpt,-0.1121023874490257,0.5496295890670932,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Cnr1,0.2090821451413511,0.0863536344685528,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Mchr1,0.0365117529589738,0.804831339910537,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Pmch,,,
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Mc4r,0.0946793193599435,0.5857988133927748,0.883792811285181
+Fasted adult,Nodose_fasted18h_vs_fed,prespecified,Npy1r,-0.0380462393009252,0.7908546297320284,0.883792811285181
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Cckar,0.1099341631304248,0.2146373478463254,0.5477963592858062
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Glp1r,-0.400891632089055,0.0311445677903999,0.1512736149819425
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Gipr,-0.0262018797039287,0.9131370040620688,0.947127107295008
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Gpr65,0.0646725694878565,0.5942516413352109,0.830901296931806
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Npy2r,-0.2929638633508691,0.0137506052232504,0.0756956376400001
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Lepr,-0.6562755468012166,0.0001871623060425,0.0042423456036316
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Ghsr,-0.6238977899609939,0.20864556259189,0.5477963592858062
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Oxtr,-0.1556937297134964,0.3081694811250581,0.5987292776143988
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Htr3a,0.2632536962632898,0.0096150449631381,0.0653823057493393
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Ffar3,0.5642668820894013,0.0084547204520501,0.0646109299613968
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Insr,-0.4347116888609035,0.0054280673782344,0.0615180969533243
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Calcr,,,
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Piezo1,-0.325783315765067,0.0085514466125378,0.0646109299613968
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Piezo2,-0.3796527099048478,0.110753434328874,0.4184018630201908
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,P2rx2,0.213122872326083,0.0532649893373402,0.226376204683696
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,P2rx3,-0.483275369675776,0.0028350238970368,0.0385563249997016
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Vip,0.558681653418333,0.0001242638284177,0.0042249701662037
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Uts2b,1.0710074671915413,4.631062737154524e-07,3.1491226612650764e-05
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Sst,0.6530722239176704,0.011014820022012,0.068091614681529
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Calca,0.4266769531863418,0.1414980620361507,0.4730150077955469
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Cartpt,0.6327256957719177,0.0023366012005349,0.0385563249997016
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Cnr1,-0.3462863735915488,0.0069422102072245,0.0646109299613968
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Mchr1,0.1696711981455978,0.257421538880654,0.5627906085475113
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Pmch,,,
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Mc4r,-0.0401709304549706,0.8166606706671163,0.9276539676996928
+HFD adult,Nodose_HFD_4wk_vs_fed,prespecified,Npy1r,-0.1621008699862939,0.2648426393164759,0.5627906085475113
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Cckar,0.2449576757574647,0.0143026894737443,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Glp1r,0.1710086482462331,0.2877938377577352,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Gipr,-0.0536578397110657,0.8788634168012207,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Gpr65,-0.0883109192472158,0.3716140177764045,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Npy2r,-0.0007460096652379,0.994235871603908,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Lepr,-0.242659007353155,0.0484936323122342,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Ghsr,-0.0655062818855178,0.9021346865361044,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Oxtr,0.1611947658013986,0.2733529665269329,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Htr3a,0.0732801236181446,0.4262080723304423,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Ffar3,0.1815919807769744,0.3290058528431226,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Insr,0.094154230928292,0.3260993481855391,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Calcr,,,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Piezo1,-0.0073614246374826,0.9261226304384133,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Piezo2,0.3249287556115414,0.0924732297560604,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,P2rx2,-0.005157489472593,0.9585643345860508,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,P2rx3,0.0306477137707539,0.7357227041786187,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Vip,0.5467919185539629,0.0058305609090982,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Uts2b,1.1163110566987988,4.398644274896673e-05,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Sst,-0.0636425042587968,0.8234962032086492,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Calca,0.0751479241765124,0.7960558073397275,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Cartpt,0.0383715972913496,0.864617420703613,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Cnr1,0.0135893925398692,0.8973647948679478,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Mchr1,0.0905433720964996,0.6334804754041984,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Pmch,,,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Mc4r,-0.0271969125289407,0.9067489068789868,
+HFD females,Nodose_HFD_4wk_vs_fed,female only,Npy1r,-0.0086823540727948,0.953766416404188,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Cckar,0.1435763460994929,0.1344971714275603,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Glp1r,-0.1077177535719262,0.4466278732960121,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Gipr,-0.104388442240685,0.702760555135991,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Gpr65,-0.0132604520630629,0.9179369878817863,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Npy2r,-0.1379427714378792,0.1694092915890742,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Lepr,-0.5235271855478897,0.0023653858653906,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Ghsr,-0.2479158408725452,0.637490597229729,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Oxtr,0.0437896293035974,0.7548847311271644,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Htr3a,0.1391929928704671,0.110473998388027,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Ffar3,0.2836098536981059,0.1232119554589087,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Insr,-0.1212275831050776,0.054236014146533,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Calcr,,,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Piezo1,-0.1612302940169733,0.1166314500010681,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Piezo2,0.0971090314409871,0.4587867331744317,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,P2rx2,0.102068028720152,0.3313108398504849,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,P2rx3,-0.1974219415397433,0.0396369853926393,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Vip,0.4416777338183923,0.0014896291472288,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Uts2b,0.9467735245595268,5.814912219880764e-06,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Sst,0.1790307422604902,0.2340383136170555,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Calca,0.4283253215448876,0.1850403355474511,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Cartpt,0.2329702395331045,0.0164722363865539,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Cnr1,-0.1141030364808405,0.1214703142969966,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Mchr1,0.107838773001697,0.510891191921622,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Pmch,,,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Mc4r,-0.0212715503865343,0.9131377091314664,
+HFD len.-adj.,Nodose_HFD_4wk_vs_fed,adjusted for length-bias index,Npy1r,-0.0824844747691871,0.5970571877562525,
+Early P21,Nodose_earlyHFD_P21,prespecified,Cckar,0.0361097291707921,0.8191664210465679,0.9276539676996928
+Early P21,Nodose_earlyHFD_P21,prespecified,Glp1r,0.044428251971107,0.8529368659136166,0.9276539676996928
+Early P21,Nodose_earlyHFD_P21,prespecified,Gipr,,,
+Early P21,Nodose_earlyHFD_P21,prespecified,Gpr65,-0.1843742798424542,0.2891257931511338,0.5782515863022676
+Early P21,Nodose_earlyHFD_P21,prespecified,Npy2r,0.065390741804795,0.6774515686407057,0.869183144671094
+Early P21,Nodose_earlyHFD_P21,prespecified,Lepr,0.2017123514626838,0.4828344713121045,0.7841808504824895
+Early P21,Nodose_earlyHFD_P21,prespecified,Ghsr,,,
+Early P21,Nodose_earlyHFD_P21,prespecified,Oxtr,0.1410052292973599,0.3445731152755067,0.6508603288537349
+Early P21,Nodose_earlyHFD_P21,prespecified,Htr3a,-0.0594715951072493,0.6291992618804054,0.8389323491738739
+Early P21,Nodose_earlyHFD_P21,prespecified,Ffar3,-0.0304834200378071,0.928906451744879,0.947127107295008
+Early P21,Nodose_earlyHFD_P21,prespecified,Insr,0.1052201175631163,0.4420628965621516,0.7515069241556577
+Early P21,Nodose_earlyHFD_P21,prespecified,Calcr,,,
+Early P21,Nodose_earlyHFD_P21,prespecified,Piezo1,0.152005581637626,0.2601489049607197,0.5627906085475113
+Early P21,Nodose_earlyHFD_P21,prespecified,Piezo2,-0.0606945376280523,0.8269563199205462,0.9276539676996928
+Early P21,Nodose_earlyHFD_P21,prespecified,P2rx2,-0.0420153858187996,0.7641689207423447,0.9276539676996928
+Early P21,Nodose_earlyHFD_P21,prespecified,P2rx3,-0.174765383949648,0.1475396920590905,0.4730150077955469
+Early P21,Nodose_earlyHFD_P21,prespecified,Vip,-0.1502345725607485,0.501135152365401,0.7924927990894713
+Early P21,Nodose_earlyHFD_P21,prespecified,Uts2b,0.2887542970845776,0.3801295483132908,0.6986164671703724
+Early P21,Nodose_earlyHFD_P21,prespecified,Sst,-0.2516276927445844,0.2217181054915297,0.5477963592858062
+Early P21,Nodose_earlyHFD_P21,prespecified,Calca,-0.6161131442251596,0.1513133163005817,0.4730150077955469
+Early P21,Nodose_earlyHFD_P21,prespecified,Cartpt,0.0155295414576917,0.916622501811757,0.947127107295008
+Early P21,Nodose_earlyHFD_P21,prespecified,Cnr1,0.0271919031087384,0.8477840114514994,0.9276539676996928
+Early P21,Nodose_earlyHFD_P21,prespecified,Mchr1,-0.1148138021984592,0.6691430982896189,0.869183144671094
+Early P21,Nodose_earlyHFD_P21,prespecified,Pmch,,,
+Early P21,Nodose_earlyHFD_P21,prespecified,Mc4r,0.0179486875164336,0.9559575149139534,0.9559575149139534
+Early P21,Nodose_earlyHFD_P21,prespecified,Npy1r,0.0674892584702026,0.842886835816696,0.9276539676996928
+Early P35,Nodose_earlyHFD_P35,prespecified,Cckar,0.2269405468717918,0.1651705250292303,0.4883302479125069
+Early P35,Nodose_earlyHFD_P35,prespecified,Glp1r,0.2673511963761954,0.2846680562870282,0.5782515863022676
+Early P35,Nodose_earlyHFD_P35,prespecified,Gipr,,,
+Early P35,Nodose_earlyHFD_P35,prespecified,Gpr65,-0.0583642893627044,0.7447686534131503,0.9276539676996928
+Early P35,Nodose_earlyHFD_P35,prespecified,Npy2r,0.2319051147820165,0.1530342672279711,0.4730150077955469
+Early P35,Nodose_earlyHFD_P35,prespecified,Lepr,0.1762897238576036,0.5363552870498605,0.8104924337642336
+Early P35,Nodose_earlyHFD_P35,prespecified,Ghsr,,,
+Early P35,Nodose_earlyHFD_P35,prespecified,Oxtr,0.2672164781960064,0.0894245593806351,0.3576982375225404
+Early P35,Nodose_earlyHFD_P35,prespecified,Htr3a,-0.154512785591565,0.2255632067647437,0.5477963592858062
+Early P35,Nodose_earlyHFD_P35,prespecified,Ffar3,-0.8444427183333181,0.0144712248429412,0.0756956376400001
+Early P35,Nodose_earlyHFD_P35,prespecified,Insr,-0.0751605659224464,0.5987376992596838,0.830901296931806
+Early P35,Nodose_earlyHFD_P35,prespecified,Calcr,,,
+Early P35,Nodose_earlyHFD_P35,prespecified,Piezo1,-0.1163474142297169,0.4084314523798482,0.730877335837623
+Early P35,Nodose_earlyHFD_P35,prespecified,Piezo2,-0.0241331699743804,0.933198767481846,0.947127107295008
+Early P35,Nodose_earlyHFD_P35,prespecified,P2rx2,0.191421015804852,0.1864944060971168,0.5284008172751642
+Early P35,Nodose_earlyHFD_P35,prespecified,P2rx3,0.0969560162120081,0.4376894214001859,0.7515069241556577
+Early P35,Nodose_earlyHFD_P35,prespecified,Vip,-0.0409924572602854,0.859444117133539,0.9276539676996928
+Early P35,Nodose_earlyHFD_P35,prespecified,Uts2b,0.0758122814891683,0.822261186356983,0.9276539676996928
+Early P35,Nodose_earlyHFD_P35,prespecified,Sst,0.1486762881263795,0.4843469958862435,0.7841808504824895
+Early P35,Nodose_earlyHFD_P35,prespecified,Calca,-0.2882090274334413,0.5166927078384291,0.7985250939321177
+Early P35,Nodose_earlyHFD_P35,prespecified,Cartpt,0.177443626682342,0.2486908613483565,0.5627906085475113
+Early P35,Nodose_earlyHFD_P35,prespecified,Cnr1,0.0724969906854603,0.6212827000059493,0.8389323491738739
+Early P35,Nodose_earlyHFD_P35,prespecified,Mchr1,-0.1655548590839615,0.5652976542873549,0.8254235072132604
+Early P35,Nodose_earlyHFD_P35,prespecified,Pmch,,,
+Early P35,Nodose_earlyHFD_P35,prespecified,Mc4r,0.2056334916473932,0.5705133064562241,0.8254235072132604
+Early P35,Nodose_earlyHFD_P35,prespecified,Npy1r,-0.7118993680360002,0.0463263672266005,0.2100128647605889
