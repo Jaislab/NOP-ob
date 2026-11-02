@@ -1,0 +1,12 @@
+id,accession,tissue,assay,candidate_role,verification_status,source_url
+A1,GSE225224,Dorsal root ganglia (sciatic nerve also in series),Bulk RNA-seq,diet comparison,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE225224
+A2,GSE198895,"DRG, Nav1.8+ neurons (RiboTag IP of translating mRNA)",TRAP-seq (translatome),diet comparison,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198895
+A3,GSE281091,Nodose ganglia,Bulk RNA-seq,diet comparison,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE281091
+A4,GSE320302,Nodose ganglia,Bulk RNA-seq,diet comparison,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE320302
+A5,GSE233163,Superior cervical ganglia + stellate ganglia,scRNA-seq,diet comparison,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233163
+B1,GSE309905,Cervical vagus nerves containing the nodose ganglion,snRNA-seq,context only,Not independently verified; NCBI access blocked at initial attempt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309905
+C1,doi:10.5061/dryad.9s4mw6mm5,Lumbar DRG,scRNA-seq (10x v2),availability lead,Not independently verified; NCBI access blocked at initial attempt,
+C2,— (only epidermis deposited: GSE327170),DRG,scRNA-seq,availability lead,Not independently verified; NCBI access blocked at initial attempt,
+C3,—,DRG,Bulk RNA-seq,availability lead,Not independently verified; NCBI access blocked at initial attempt,
+C4,— (none stated),Ipsilateral DRG (+ spinal dorsal horn),Bulk RNA-seq (PE150),availability lead,Not independently verified; NCBI access blocked at initial attempt,
+C5,—,Not confirmed (DRG-targeted study),RNA-seq (per abstract),availability lead,Not independently verified; NCBI access blocked at initial attempt,

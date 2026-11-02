@@ -1,0 +1,28 @@
+Peripheral ganglia transcriptomes under hypercaloric diets,,,,
+"Searched and validated 2026-11-02 (GEO, ENA/SRA, ArrayExpress, CNCB GSA, PubMed, Dryad)",,,,
+,,,,
+Tier,Datasets,,,Definition
+Tier A,5,,,Public data; ganglion tissue; hypercaloric diet vs control diet.
+Tier B,1,,,"Public data; ganglion tissue under hypercaloric diet, but no control diet in the deposited samples."
+Tier C,5,,,"Ganglion transcriptome under hypercaloric diet was generated, but data are not deposited, on request only, or the listed link does not resolve."
+Total,11,,,
+,,,,
+Ganglion class,Tier A,Tier B,Tier C,Note
+Somatosensory (DRG),2,0,5,"Bulk (A1), Nav1.8 TRAP (A2); single-cell sets exist but are not accessible (C1, C2)."
+Vagal sensory (nodose),2,1,0,"Adult HFD (A3), early-life HFD (A4), HFD-only snRNA-seq (B1)."
+Sympathetic,1,0,0,"SCG + stellate scRNA-seq, mostly non-neuronal cells (A5)."
+Trigeminal,0,0,0,"None with a hypercaloric diet (STZ only, see Non-diet models)."
+Enteric (myenteric/submucosal),0,0,0,None in vivo; only palmitate-treated cell line (Near-misses).
+"Other (geniculate, petrosal, pelvic, ciliary)",0,0,0,None found.
+,,,,
+Inclusion criteria,,,,
+"• Tissue: a peripheral ganglion (DRG, nodose/jugular, trigeminal, sympathetic, enteric, other autonomic) or a cell type sorted from one.",,,,
+"• Diet: hypercaloric — high-fat, Western (high fat + sucrose ± cholesterol), high-fat high-sugar/fructose, cafeteria, maternal/early-life HFD, or HFD combined with low-dose STZ.",,,,
+"• Assay: transcriptome-wide (bulk RNA-seq, TRAP-seq, sc/snRNA-seq, spatial, microarray).",,,,
+"• Excluded from main list: STZ-only or genetic models (sheet 'Non-diet models'); hypercaloric diet but non-ganglion tissue, or ganglion without a diet contrast (sheet 'Near-misses').",,,,
+,,,,
+Key caveats,,,,
+• No public single-cell DRG dataset with a diet contrast is currently retrievable; C1's Dryad DOI did not resolve on the search date.,,,,
+"• A5 (sympathetic) contains few neurons; it mainly informs glia, perineurial/endothelial and immune responses.",,,,
+• Group sizes are small throughout (n = 2–8 per arm); A3 has 3 per sex per group.,,,,
+"• Diet composition differs across studies (45% vs 60% lard HFD vs 42% Western TD88137), as does duration (4–33 weeks).",,,,

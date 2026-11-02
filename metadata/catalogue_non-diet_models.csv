@@ -1,0 +1,12 @@
+Accession,Tissue,Species,Model,Assay,Samples,Publication / PMID,Relevance
+GSE70852,DRG + sciatic nerve,Mouse,"Female BTBR ob/ob vs ob/+, 26 wk (genetic obesity/T2D)",Microarray,20 (DRG 10),"PMIDs 25447227, 26525588",Genetic obesity comparator for DRG.
+GSE287251,Sensory ganglia,Mouse,Lipodystrophic mice ± WT or leptin-KO fat implants; knee OA surgery,Bulk RNA-seq,17,No PMID in GEO (WashU),Adipose/leptin manipulation without diet.
+GSE34000,DRG L4–L6,Rat,STZ (type 1 diabetes) ± FK1706,Microarray,9,PMID 22642793,Hyperglycemia without hypercaloric diet.
+GSE110234,DRG,Rat,"STZ vs control (SuperSeries: mRNA/lncRNA GSE110233, miRNA GSE110231)",Microarray,12,—,Hyperglycemia without hypercaloric diet.
+GSE176017,L5 DRG,Rat,STZ: painful DPN 4 / DM 2 / normal 2,scRNA-seq,8,"PMIDs 35668789, 40136642","Single-cell DRG in diabetes, no diet."
+GSE305770,DRG,Rat,STZ painful DPN vs control,Bulk RNA-seq (full transcriptome),10,—,Hyperglycemia without hypercaloric diet.
+GSE329119,Trigeminal ganglia,Mouse,STZ diabetic vs control (corneal neuropathy),Bulk RNA-seq,6,—,Only trigeminal metabolic dataset found; no diet.
+GSE245193,Trigeminal ganglion,Mouse,Diabetic vs normal (model not stated),miRNA-seq,6,—,"Trigeminal, diabetes model unspecified."
+GSE50404,Nodose neurons (laser-captured),Mouse,Phox2b-Cre PPARγ fl/fl vs fl/+ (chow),Microarray,6,PMID 24703703,"Study is about HFD thermogenesis, but sequenced samples are chow genotypes."
+GSE248462,Nodose ganglion (+ arcuate),Mouse,"Hepatocyte Rev-erbα/β deletion, circadian time course, chow",Bulk RNA-seq,48 (24 nodose),PMID 39509517,Chow nodose reference across circadian time.
+GSE267231,Vagal ganglia,Mouse,"Female vs male, chow",snRNA-seq,2,"PMIDs 38808032, 39856118",Chow vagal reference from an HFD-focused lab.

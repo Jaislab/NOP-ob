@@ -1,0 +1,10 @@
+Source,Method,Queries,Candidates returned,Outcome
+"GEO series (Entrez gds, GSE)","42 ganglion/sensory-neuron terms × 28 diet/metabolic terms (HFD, Western, cafeteria, sucrose, fructose, hypercaloric, maternal diet, prediabetes, T2D, STZ, palmitate …)",1176,44,"All 44 screened; A1, A2, A3, A4, A5, B1 plus near-misses and non-diet models."
+"GEO series, round 2","36 extra terms (LMMP, muscularis, T13, thoracic/lumbar ganglia, Advillin, Nav1.8, Trpv1, Phox2b, vagus, autonomic, intracardiac, neuropathy …) × 16 diet terms",576,65,65 new series screened; added GSE255553 (near-miss); rest irrelevant.
+"GEO samples (Entrez gds, GSM)","20 ganglion terms × 13 diet terms at sample level, mapped to parent series",260,25,No new ganglion datasets (hits were jugular vein / hepatic stellate cells).
+ArrayExpress / BioStudies,17 ganglion terms × 13 diet terms,221,4,Only GEO mirrors and unrelated studies.
+ENA studies (SRA-only submissions),18 × 14 terms in study title and description,504,33,Led to GSE309905 (B1) and several near-misses.
+CNCB GSA + BioProject,12 × 10 terms in each database,240,18,No China-only datasets; GSA mirrors GSE320302.
+PubMed,"Ganglia (MeSH + title/abstract) × hypercaloric diet, with and without an omics filter; abstracts screened; ELink to GEO",2,370,Found C1–C5 (not deposited / not resolvable) and confirmed publications.
+Dryad,Keyword searches for HFD + DRG / nodose / ganglia / painful diabetic neuropathy,6,0,C1 Dryad DOI not found.
+Validation,"GEO SOFT metadata pulled for every candidate (sample groups, characteristics, platform); PMC full text read for diet and data availability where open",—,—,"Corrections vs earlier list: GSE225224 diet is 45% (not 60%); GSE320302 is bulk RNA-seq (31 samples, P21/P35, male)."
